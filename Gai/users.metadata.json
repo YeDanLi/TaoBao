@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"Gai.users"},{"v":1,"unique":true,"key":{"addressList._id":1},"name":"addressList._id_1","ns":"Gai.users","background":true}]}
